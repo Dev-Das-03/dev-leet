@@ -21,4 +21,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dev-Das-03/dev-leet/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dev-Das-03/dev-leet/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dev-Das-03/dev-leet/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dev-Das-03/dev-leet/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dev-Das-03/dev-leet/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 <!---LeetCode Topics End-->
