@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Dev-Das-03/dev-leet/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dev-Das-03/dev-leet/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dev-Das-03/dev-leet/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Dev-Das-03/dev-leet/tree/main/2942-find-words-containing-character/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dev-Das-03/dev-leet/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2942-find-words-containing-character](https://github.com/Dev-Das-03/dev-leet/tree/main/2942-find-words-containing-character/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
