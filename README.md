@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dev-Das-03/dev-leet/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dev-Das-03/dev-leet/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dev-Das-03/dev-leet/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Dev-Das-03/dev-leet/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0896-monotonic-array](https://github.com/Dev-Das-03/dev-leet/tree/main/0896-monotonic-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dev-Das-03/dev-leet/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -55,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3379-transformed-array](https://github.com/Dev-Das-03/dev-leet/tree/main/3379-transformed-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dev-Das-03/dev-leet/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
