@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Dev-Das-03/dev-leet/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Dev-Das-03/dev-leet/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/Dev-Das-03/dev-leet/tree/main/0069-sqrtx/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dev-Das-03/dev-leet/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0069-sqrtx](https://github.com/Dev-Das-03/dev-leet/tree/main/0069-sqrtx/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Dev-Das-03/dev-leet/tree/main/0067-add-binary/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Dev-Das-03/dev-leet/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
