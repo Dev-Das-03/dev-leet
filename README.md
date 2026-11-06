@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Dev-Das-03/dev-leet/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Dev-Das-03/dev-leet/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Dev-Das-03/dev-leet/tree/main/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/Dev-Das-03/dev-leet/tree/main/0231-power-of-two/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,8 +78,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Dev-Das-03/dev-leet/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/Dev-Das-03/dev-leet/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Dev-Das-03/dev-leet/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/Dev-Das-03/dev-leet/tree/main/0231-power-of-two/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Dev-Das-03/dev-leet/tree/main/0069-sqrtx/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Dev-Das-03/dev-leet/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
