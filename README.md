@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Dev-Das-03/dev-leet/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0896-monotonic-array](https://github.com/Dev-Das-03/dev-leet/tree/main/0896-monotonic-array/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/Dev-Das-03/dev-leet/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dev-Das-03/dev-leet/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Dev-Das-03/dev-leet/tree/main/2942-find-words-containing-character/) | Easy |
 | [3379-transformed-array](https://github.com/Dev-Das-03/dev-leet/tree/main/3379-transformed-array/) | Easy |
@@ -98,4 +99,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0414-third-maximum-number/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/Dev-Das-03/dev-leet/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 <!---LeetCode Topics End-->
