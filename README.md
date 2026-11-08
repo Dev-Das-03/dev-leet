@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev-Das-03/dev-leet/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Dev-Das-03/dev-leet/tree/main/0066-plus-one/) | Easy |
+| [0169-majority-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Dev-Das-03/dev-leet/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dev-Das-03/dev-leet/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dev-Das-03/dev-leet/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Dev-Das-03/dev-leet/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Dev-Das-03/dev-leet/tree/main/0191-number-of-1-bits/) | Easy |
 ## Simulation
@@ -97,7 +100,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0414-third-maximum-number/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Dev-Das-03/dev-leet/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
