@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Dev-Das-03/dev-leet/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/Dev-Das-03/dev-leet/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Dev-Das-03/dev-leet/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0896-monotonic-array](https://github.com/Dev-Das-03/dev-leet/tree/main/0896-monotonic-array/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Dev-Das-03/dev-leet/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dev-Das-03/dev-leet/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Dev-Das-03/dev-leet/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Dev-Das-03/dev-leet/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Dev-Das-03/dev-leet/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
