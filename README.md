@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Dev-Das-03/dev-leet/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Dev-Das-03/dev-leet/tree/main/0066-plus-one/) | Easy |
+| [0136-single-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0414-third-maximum-number/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Dev-Das-03/dev-leet/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Dev-Das-03/dev-leet/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Dev-Das-03/dev-leet/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Dev-Das-03/dev-leet/tree/main/0231-power-of-two/) | Easy |
