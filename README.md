@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Dev-Das-03/dev-leet/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Dev-Das-03/dev-leet/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Dev-Das-03/dev-leet/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Dev-Das-03/dev-leet/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Dev-Das-03/dev-leet/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/Dev-Das-03/dev-leet/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
@@ -132,4 +133,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dev-Das-03/dev-leet/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Dev-Das-03/dev-leet/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Dev-Das-03/dev-leet/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
