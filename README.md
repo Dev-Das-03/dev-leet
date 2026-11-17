@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Dev-Das-03/dev-leet/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Dev-Das-03/dev-leet/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/Dev-Das-03/dev-leet/tree/main/0704-binary-search/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Dev-Das-03/dev-leet/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Dev-Das-03/dev-leet/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Dev-Das-03/dev-leet/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Dev-Das-03/dev-leet/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Dev-Das-03/dev-leet/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/Dev-Das-03/dev-leet/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dev-Das-03/dev-leet/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dev-Das-03/dev-leet/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -98,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev-Das-03/dev-leet/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0027-remove-element/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Dev-Das-03/dev-leet/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Dev-Das-03/dev-leet/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0414-third-maximum-number/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Dev-Das-03/dev-leet/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Counting
