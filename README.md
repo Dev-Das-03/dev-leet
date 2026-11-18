@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Dev-Das-03/dev-leet/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Dev-Das-03/dev-leet/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Dev-Das-03/dev-leet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev-Das-03/dev-leet/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Dev-Das-03/dev-leet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Dev-Das-03/dev-leet/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Dev-Das-03/dev-leet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Dev-Das-03/dev-leet/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Dev-Das-03/dev-leet/tree/main/0349-intersection-of-two-arrays/) | Easy |
