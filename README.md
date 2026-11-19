@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0509-fibonacci-number/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dev-Das-03/dev-leet/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dev-Das-03/dev-leet/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dev-Das-03/dev-leet/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dev-Das-03/dev-leet/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0896-monotonic-array](https://github.com/Dev-Das-03/dev-leet/tree/main/0896-monotonic-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dev-Das-03/dev-leet/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dev-Das-03/dev-leet/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Dev-Das-03/dev-leet/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dev-Das-03/dev-leet/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Dev-Das-03/dev-leet/tree/main/2942-find-words-containing-character/) | Easy |
