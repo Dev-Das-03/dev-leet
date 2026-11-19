@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Dev-Das-03/dev-leet/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0509-fibonacci-number/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dev-Das-03/dev-leet/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dev-Das-03/dev-leet/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dev-Das-03/dev-leet/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dev-Das-03/dev-leet/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dev-Das-03/dev-leet/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Dev-Das-03/dev-leet/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0414-third-maximum-number/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dev-Das-03/dev-leet/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Dev-Das-03/dev-leet/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
