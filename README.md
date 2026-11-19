@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/Dev-Das-03/dev-leet/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0231-power-of-two](https://github.com/Dev-Das-03/dev-leet/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Dev-Das-03/dev-leet/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0509-fibonacci-number/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dev-Das-03/dev-leet/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Dev-Das-03/dev-leet/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/Dev-Das-03/dev-leet/tree/main/0258-add-digits/) | Easy |
 | [3379-transformed-array](https://github.com/Dev-Das-03/dev-leet/tree/main/3379-transformed-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -155,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Dev-Das-03/dev-leet/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0509-fibonacci-number/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Dev-Das-03/dev-leet/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
