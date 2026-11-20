@@ -1,7 +1,8 @@
 class Solution:
     def alternatingSum(self, nums: List[int]) -> int:
-        ans,c = 0,1
-        for i in range(len(nums)):
-            ans += nums[i] * c
-            c *= -1
-        return ans
+        ans = 0
+        if len(nums) == 1:
+            return nums[0]
+        for i in range(1,len(nums),2):
+            ans += nums[i]
+        return sum(nums) - ans*2
