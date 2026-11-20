@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-monotonic-array](https://github.com/Dev-Das-03/dev-leet/tree/main/0896-monotonic-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dev-Das-03/dev-leet/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dev-Das-03/dev-leet/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Dev-Das-03/dev-leet/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Dev-Das-03/dev-leet/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dev-Das-03/dev-leet/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Dev-Das-03/dev-leet/tree/main/2942-find-words-containing-character/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Dev-Das-03/dev-leet/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Dev-Das-03/dev-leet/tree/main/0258-add-digits/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Dev-Das-03/dev-leet/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3379-transformed-array](https://github.com/Dev-Das-03/dev-leet/tree/main/3379-transformed-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
