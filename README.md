@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0509-fibonacci-number/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dev-Das-03/dev-leet/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dev-Das-03/dev-leet/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2544-alternating-digit-sum](https://github.com/Dev-Das-03/dev-leet/tree/main/2544-alternating-digit-sum/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dev-Das-03/dev-leet/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Array
 | Problem Name | Difficulty |
