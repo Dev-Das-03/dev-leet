@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Dev-Das-03/dev-leet/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Dev-Das-03/dev-leet/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/Dev-Das-03/dev-leet/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0509-fibonacci-number/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dev-Das-03/dev-leet/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dev-Das-03/dev-leet/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Dev-Das-03/dev-leet/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/Dev-Das-03/dev-leet/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
