@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Dev-Das-03/dev-leet/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Dev-Das-03/dev-leet/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/Dev-Das-03/dev-leet/tree/main/0338-counting-bits/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Dev-Das-03/dev-leet/tree/main/0070-climbing-stairs/) | Easy |
+| [0338-counting-bits](https://github.com/Dev-Das-03/dev-leet/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
