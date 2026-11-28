@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2544-alternating-digit-sum](https://github.com/Dev-Das-03/dev-leet/tree/main/2544-alternating-digit-sum/) | Easy |
 | [3360-stone-removal-game](https://github.com/Dev-Das-03/dev-leet/tree/main/3360-stone-removal-game/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dev-Das-03/dev-leet/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dev-Das-03/dev-leet/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dev-Das-03/dev-leet/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3379-transformed-array](https://github.com/Dev-Das-03/dev-leet/tree/main/3379-transformed-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Dev-Das-03/dev-leet/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dev-Das-03/dev-leet/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
