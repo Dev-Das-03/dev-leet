@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev-Das-03/dev-leet/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Dev-Das-03/dev-leet/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dev-Das-03/dev-leet/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Dev-Das-03/dev-leet/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Dev-Das-03/dev-leet/tree/main/2942-find-words-containing-character/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Dev-Das-03/dev-leet/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dev-Das-03/dev-leet/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/Dev-Das-03/dev-leet/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dev-Das-03/dev-leet/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dev-Das-03/dev-leet/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Dev-Das-03/dev-leet/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Dev-Das-03/dev-leet/tree/main/2942-find-words-containing-character/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
